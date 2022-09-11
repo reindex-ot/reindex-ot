@@ -1,4 +1,4 @@
-# 🍺Hi! I'm Re*Index.(ot_inc)
+# 🍺Hi! I'm Re*Index. (ot_inc)
 ![](https://komarev.com/ghpvc/?username=reindex-ot&color=gray) ![](https://img.shields.io/twitter/follow/ot_inc?style=social) ![](https://img.shields.io/github/followers/reindex-ot?style=social) ![](https://img.shields.io/youtube/channel/subscribers/UCE5tVfXXLSonqBJ1GZmLuyw?style=social)
 
 あっ、どうも。細々と何かやってるぞ。生暖かく見てくれ。<br>最近は「Heaven Burns Red」と「ウマ娘」をやってる感じです。「コパノリッキー」が最近好きになりました。
