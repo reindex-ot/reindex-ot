@@ -8,7 +8,7 @@
 - <b>English (Translated at DeepL)</b><br>
 Hi. I've been working on something. Keep an open mind.<br>Lately I feel like I'm doing "[Heaven Burns Red](https://heaven-burns-red.com/)" and "[Umamusume](https://umamusume.jp/)". "[Copano Rickey](https://umamusume.jp/character/detail/?name=copanorickey)" is my new favorite.
 
-
+[![typograssy](https://typograssy.deno.dev/api?text=%E3%83%AA%E3%83%83%E3%82%AD%E3%83%BC%E3%83%A9%E3%83%83%E3%82%AD%E3%83%BC%E3%81%BF%E3%82%93%E3%81%AA%E3%81%A7%E3%83%8F%E3%83%83%E3%83%94%E3%83%BC!&l0=ffffff&l1=eeff00&l2=eeff00&l3=fff700&l4=eeff00&frame=ffffff&speed=60&comment=)](https://github.com/kawarimidoll/typograssy)
 
 ### ⚡Status
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reindex-ot&theme=github)
