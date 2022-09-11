@@ -1,3 +1,4 @@
+![](https://github.com/reindex-ot/reindex-ot/blob/main/image/copanorickey.png?raw=true)
 # 🍺Hi! I'm Re*Index. (ot_inc)
 ![](https://komarev.com/ghpvc/?username=reindex-ot&color=gray) ![](https://img.shields.io/twitter/follow/ot_inc?style=social) ![](https://img.shields.io/github/followers/reindex-ot?style=social) ![](https://img.shields.io/youtube/channel/subscribers/UCE5tVfXXLSonqBJ1GZmLuyw?style=social)
 
