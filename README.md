@@ -2,8 +2,10 @@
 # 🍺Hi! I'm Re*Index. (ot_inc)
 ![](https://komarev.com/ghpvc/?username=reindex-ot&color=gray) ![](https://img.shields.io/twitter/follow/ot_inc?style=social) ![](https://img.shields.io/github/followers/reindex-ot?style=social) ![](https://img.shields.io/youtube/channel/subscribers/UCE5tVfXXLSonqBJ1GZmLuyw?style=social)
 
+- <b>Japanese (日本語)</b><br>
 あっ、どうも。細々と何かやってるぞ。生暖かく見てくれ。<br>最近は「[Heaven Burns Red](https://heaven-burns-red.com/)」と「[ウマ娘](https://umamusume.jp/)」をやってる感じです。「[コパノリッキー](https://umamusume.jp/character/detail/?name=copanorickey)」が最近好きになりました。
 
+- <b>English (Translated at DeepL)</b><br>
 Hi. I've been working on something. Keep an open mind.<br>Lately I feel like I'm doing "[Heaven Burns Red](https://heaven-burns-red.com/)" and "[Umamusume](https://umamusume.jp/). "[Copano Rickey](https://umamusume.jp/character/detail/?name=copanorickey)" is my new favorite.
 
 
