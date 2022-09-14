@@ -1,4 +1,4 @@
-![](https://github.com/reindex-ot/reindex-ot/blob/main/image/copanorickey.png?raw=true)
+![Copano Rickey](https://github.com/reindex-ot/reindex-ot/blob/main/image/copanorickey.png?raw=true)
 # 🍺Hi! I'm Re*Index. (ot_inc)
 [![Twitter](https://img.shields.io/twitter/follow/ot_inc?style=social)](https://twitter.com/ot_inc) [![GitHub](https://img.shields.io/github/followers/reindex-ot?style=social)](https://github.com/reindex-ot?tab=followers) [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCE5tVfXXLSonqBJ1GZmLuyw?style=social)](https://www.youtube.com/channel/UCE5tVfXXLSonqBJ1GZmLuyw)
 
