@@ -5,6 +5,7 @@
 ### 🐾Visitor
 ![:reindex-ot](https://count.getloli.com/get/@:reindex-ot)
 
+### 📋Note
 - <b>Japanese (日本語)</b><br>
 あっ、どうも。細々と何かやってるぞ。生暖かく見てくれ。<br>最近は「[Heaven Burns Red](https://heaven-burns-red.com/)」と「[ウマ娘](https://umamusume.jp/)」をやってる感じです。「[コパノリッキー](https://umamusume.jp/character/detail/?name=copanorickey)」が最近好きになりました。
 
