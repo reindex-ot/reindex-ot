@@ -2,7 +2,7 @@
 # 🍺Hi! I'm Re*Index. (ot_inc)
 ![Twitter](https://img.shields.io/twitter/follow/ot_inc?style=social) ![GitHub](https://img.shields.io/github/followers/reindex-ot?style=social) ![YouTube](https://img.shields.io/youtube/channel/subscribers/UCE5tVfXXLSonqBJ1GZmLuyw?style=social)
 
-### 🐾Counter
+### 🐾Visitor
 ![:reindex-ot](https://count.getloli.com/get/@:reindex-ot)
 
 - <b>Japanese (日本語)</b><br>
