@@ -1,6 +1,6 @@
 ![](https://github.com/reindex-ot/reindex-ot/blob/main/image/copanorickey.png?raw=true)
 # 🍺Hi! I'm Re*Index. (ot_inc)
-![https://twitter.com/ot_inc](https://img.shields.io/twitter/follow/ot_inc?style=social) ![](https://img.shields.io/github/followers/reindex-ot?style=social) ![](https://img.shields.io/youtube/channel/subscribers/UCE5tVfXXLSonqBJ1GZmLuyw?style=social)
+![Twitter](https://img.shields.io/twitter/follow/ot_inc?style=social) ![GitHub](https://img.shields.io/github/followers/reindex-ot?style=social) ![YouTube](https://img.shields.io/youtube/channel/subscribers/UCE5tVfXXLSonqBJ1GZmLuyw?style=social)
 
 ### 🐾Counter
 ![:reindex-ot](https://count.getloli.com/get/@:reindex-ot)
