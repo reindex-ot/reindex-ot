@@ -1,7 +1,7 @@
 ![Copano Rickey](https://github.com/reindex-ot/reindex-ot/blob/main/image/copanorickey.jpg)
 # 🍺Hi! I'm Re*Index. (ot_inc)
 [![Twitter](https://img.shields.io/twitter/follow/ot_inc?style=flat&logo=twitter)](https://twitter.com/ot_inc) [![GitHub](https://img.shields.io/github/followers/reindex-ot?style=flat&logo=github)](https://github.com/reindex-ot?tab=followers) [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCE5tVfXXLSonqBJ1GZmLuyw?style=flat&logo=youtube)](https://www.youtube.com/channel/UCE5tVfXXLSonqBJ1GZmLuyw)
-
+![Logo](https://github.com/reindex-ot/reindex-ot/blob/main/image/logo.jpg)
 ### 🐾Visitor
 ![:reindex-ot](https://count.getloli.com/get/@:reindex-ot)
 
