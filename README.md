@@ -32,6 +32,9 @@ Hi. I've been working on something. Keep an open mind.<br>Lately I feel like I'm
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
+### 🌐Link
+[GitHub.io - Nothing Phone(1) Fastboot ROM & boot.img](https://reindex-ot.github.io/)<br>
+[Note (Japanese)](https://note.com/reindex)
 
 ### ⚡Status
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reindex-ot&theme=github)
