@@ -38,7 +38,7 @@ Hi. I've been working on something. Keep an open mind.<br>Lately I feel like I'm
 ### 🌐Link
 [GitHub.io - Nothing Phone(1) Fastboot ROM & boot.img](https://reindex-ot.github.io/)<br>
 [Note (Japanese)](https://note.com/reindex)<br>
-[serial experiments lain TTL(Open Source Project)](https://www.nbcuni.co.jp/rondorobe/anime/lain/ttl/)<br>
+[serial experiments lain TTL (Open Source Project)](https://www.nbcuni.co.jp/rondorobe/anime/lain/ttl/)<br>
 
 ### ⚡Status
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reindex-ot&theme=github)
