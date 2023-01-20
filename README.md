@@ -36,7 +36,7 @@ Hi. I've been working on something. Keep an open mind.<br>Lately I feel like I'm
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
 ### 🌐Link
-[Beacons(Profile)](https://beacons.ai/reindex)<br>
+[Beacons (Profile)](https://beacons.ai/reindex)<br>
 [GitHub.io - Nothing Phone(1) Fastboot ROM & boot.img](https://reindex-ot.github.io/)<br>
 [Note (Japanese)](https://note.com/reindex)<br>
 [serial experiments lain TTL (Open Source Project)](https://www.nbcuni.co.jp/rondorobe/anime/lain/ttl/)<br>
