@@ -38,7 +38,7 @@ Hi. I've been working on something. Keep an open mind.<br>Lately I feel like I'm
 ### 🌐Link
 [Beacons (Profile)](https://beacons.ai/reindex)<br>
 [GitHub.io - Nothing Phone(1) Fastboot ROM & boot.img](https://reindex-ot.github.io/)<br>
-[Note (Japanese)](https://note.com/reindex)<br>
+[note (Japanese)](https://note.com/reindex)<br>
 [serial experiments lain TTL (Open Source Project)](https://www.nbcuni.co.jp/rondorobe/anime/lain/ttl/)<br>
 
 ### ⚡Status
