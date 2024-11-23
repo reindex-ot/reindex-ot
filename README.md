@@ -22,7 +22,7 @@ Hi. I've been working on something. Keep an open mind.<br>Lately I feel like I'm
 <b>Buy Me a Coffee:</b> [https://www.buymeacoffee.com/reindex](https://www.buymeacoffee.com/reindex)<br>
 
 ### 🎵NowPlaying (Spotify)
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31rz37vbxpqjvforlhb3w22ib5gy&cover_image=true&theme=natemoo-re&show_offline=false&background_color=ffffff&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31rz37vbxpqjvforlhb3w22ib5gy&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31rz37vbxpqjvforlhb3w22ib5gy&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31rz37vbxpqjvforlhb3w22ib5gy&redirect=true)
 
 ### 🎮Game Console
 ![Playstation 2](https://img.shields.io/badge/Playstation%202-003791?style=for-the-badge&logo=playstation-2&logoColor=white)
