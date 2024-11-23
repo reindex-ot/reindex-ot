@@ -1,26 +1,19 @@
-![Copano Rickey](https://github.com/reindex-ot/reindex-ot/blob/main/image/copanorickey.jpg)
 # 🍺 Hi! I'm Re*Index. (ot_inc)
-### 📋 About
+![Copano Rickey](https://github.com/reindex-ot/reindex-ot/blob/main/image/copanorickey.jpg)
+#### 📋 About
 - <b>Japanese (日本語)</b><br>
 あっ、どうも。細々と何かやってるぞ。生暖かく見てくれ。<br>最近は「[Heaven Burns Red](https://heaven-burns-red.com/)」と「[ウマ娘](https://umamusume.jp/)」をやってる感じです。「[コパノリッキー](https://umamusume.jp/character/detail/?name=copanorickey)」が最近好きになりました。
 
 - <b>English (Translated at DeepL)</b><br>
 Hi. I've been working on something. Keep an open mind.<br>Lately I feel like I'm doing "[Heaven Burns Red](https://heaven-burns-red.com/)" and "[Umamusume](https://umamusume.jp/)". "[Copano Rickey](https://umamusume.jp/character/detail/?name=copanorickey)" is my new favorite.
 
-### 🎵 NowPlaying (Spotify)
+#### 🎵 NowPlaying (Spotify)
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31rz37vbxpqjvforlhb3w22ib5gy&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31rz37vbxpqjvforlhb3w22ib5gy&redirect=true)
 
-### 🐾 Visitor
+#### 🐾 Visitor
 ![:reindex-ot](https://count.getloli.com/get/@:reindex-ot)
 
-## 💰 Donate
-<b>Kyash (Kyash app user only)</b><br>
-![Kyash](https://github.com/reindex-ot/reindex-ot/blob/main/image/kyash_qr.png?raw=true)<br>
-<b>PayPal:</b> [https://paypal.me/reindex](https://paypal.me/reindex)<br>
-<b>Revolut:</b> [https://revolut.me/reindex](https://revolut.me/reindex)<br>
-<b>Buy Me a Coffee:</b> [https://www.buymeacoffee.com/reindex](https://www.buymeacoffee.com/reindex)<br>
-
-### 🎮 Game Console
+#### 🎮 Game Console
 ![Playstation 2](https://img.shields.io/badge/Playstation%202-003791?style=for-the-badge&logo=playstation-2&logoColor=white)
 ![Playstation 3](https://img.shields.io/badge/Playstation%203-003791?style=for-the-badge&logo=playstation-3&logoColor=white)
 ![Playstation 4](https://img.shields.io/badge/Playstation%204-003791?style=for-the-badge&logo=playstation-4&logoColor=white)
@@ -30,7 +23,7 @@ Hi. I've been working on something. Keep an open mind.<br>Lately I feel like I'm
 ![Wii U](https://img.shields.io/badge/Wii%20U-8B8B8B?style=for-the-badge&logo=wiiu&logoColor=white)
 ![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
 
-### 💻 OS
+#### 💻 OS
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Chrome OS](https://img.shields.io/badge/chrome%20os-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
@@ -38,11 +31,18 @@ Hi. I've been working on something. Keep an open mind.<br>Lately I feel like I'm
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
-### 🌐 Link
+#### 🌐 Link
 [Beacons (Profile)](https://beacons.ai/reindex)<br>
 [GitHub.io - Nothing Phone(1) Fastboot ROM & boot.img](https://reindex-ot.github.io/)<br>
 [note (Japanese)](https://note.com/reindex)<br>
 [serial experiments lain TTL (Open Source Project)](https://www.nbcuni.co.jp/rondorobe/anime/lain/ttl/)<br>
 
-### ⚡ Status
+#### ⚡ Status
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reindex-ot&theme=github)
+
+#### 💰 Donate
+<b>Kyash (Kyash app user only)</b><br>
+![Kyash](https://github.com/reindex-ot/reindex-ot/blob/main/image/kyash_qr.png?raw=true)<br>
+<b>PayPal:</b> [https://paypal.me/reindex](https://paypal.me/reindex)<br>
+<b>Revolut:</b> [https://revolut.me/reindex](https://revolut.me/reindex)<br>
+<b>Buy Me a Coffee:</b> [https://www.buymeacoffee.com/reindex](https://www.buymeacoffee.com/reindex)<br>
