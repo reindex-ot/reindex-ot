@@ -44,7 +44,7 @@ Currently watching [BanG Dream! Ave Mujica](https://anime.bang-dream.com/avemuji
 
 #### 💰 Donate
 <b>Kyash (Kyash app user only)</b><br>
-![Kyash](https://github.com/reindex-ot/reindex-ot/blob/main/image/kyash_qr.png?raw=true)<br>
+![Kyash](./image/kyash_qr.png)<br>
 <b>PayPal:</b> [https://paypal.me/reindex](https://paypal.me/reindex)<br>
 <b>Revolut:</b> [https://revolut.me/reindex](https://revolut.me/reindex)<br>
 <b>Buy Me a Coffee:</b> [https://www.buymeacoffee.com/reindex](https://www.buymeacoffee.com/reindex)<br>
