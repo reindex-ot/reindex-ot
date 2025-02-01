@@ -1,5 +1,5 @@
 # 🍺 Hi! I'm Re*Index. (ot_inc)
-![Copano Rickey](https://github.com/reindex-ot/reindex-ot/blob/main/image/copanorickey.jpg)
+![AveMujica](./image/AM_header.png)
 #### 📋 About
 - <b>Japanese (日本語)</b><br>
 あっ、どうも。細々と何かやってるぞ。生暖かく見てくれ。<br>最近は「[Heaven Burns Red](https://heaven-burns-red.com/)」と「[ウマ娘](https://umamusume.jp/)」をやってる感じです。「[コパノリッキー](https://umamusume.jp/character/detail/?name=copanorickey)」が最近好きになりました。
