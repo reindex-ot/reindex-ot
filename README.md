@@ -3,7 +3,7 @@
 #### 📋 About
 - <b>Japanese (日本語)</b><br>
 あっ、どうも。細々と何かやってるぞ。生暖かく見てくれ。<br>
-現在は、[BanG Dream! Ave Mujica](https://anime.bang-dream.com/avemujica/)を視聴中...
+現在は[BanG Dream! Ave Mujica](https://anime.bang-dream.com/avemujica/)を視聴中...
 
 - <b>English (Translated Google)</b><br>
 Oh, hello there. I'm doing a little bit of everything.<br>
