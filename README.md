@@ -34,10 +34,11 @@ Currently watching [BanG Dream! Ave Mujica](https://anime.bang-dream.com/avemuji
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
 #### 🌐 Link
-[Beacons (Profile)](https://beacons.ai/reindex)<br>
-[GitHub.io - Nothing Phone(1) Fastboot ROM & boot.img](https://reindex-ot.github.io/)<br>
-[note (Japanese)](https://note.com/reindex)<br>
-[serial experiments lain TTL (Open Source Project)](https://www.nbcuni.co.jp/rondorobe/anime/lain/ttl/)<br>
+- [Beacons (Profile)](https://beacons.ai/reindex)
+- [GitHub.io - Nothing Phone(1) Fastboot ROM & boot.img](https://reindex-ot.github.io/)
+- [note (Japanese)](https://note.com/reindex)
+- [Buy eSTK.me (Coupon Link)](https://www.estk.me/?aid=10811)
+- [serial experiments lain TTL (Open Source Project)](https://www.nbcuni.co.jp/rondorobe/anime/lain/ttl/)
 
 #### ⚡ Status
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reindex-ot&theme=github)
