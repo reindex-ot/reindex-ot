@@ -1,4 +1,4 @@
-![AveMujica](./image/AM_header.png)
+![AveMujica](./image/AM_header.webp)
 
 # 🍺 Hi! I'm Re*Index. (ot_inc)
 
@@ -55,7 +55,7 @@ Right now, I'm watching [BanG Dream! Ave Mujica](https://anime.bang-dream.com/av
 ### 💰 Donate
 **Kyash (Kyash app user only)**
 
-![Kyash](./image/kyash_qr.png)<br>
+![Kyash](./image/kyash_qr.webp)<br>
 **PayPal:** [https://paypal.me/reindex](https://paypal.me/reindex)<br>
 **Revolut:** [https://revolut.me/reindex](https://revolut.me/reindex)<br>
 **Buy Me a Coffee:** [https://www.buymeacoffee.com/reindex](https://www.buymeacoffee.com/reindex)<br>
