@@ -1,11 +1,15 @@
 # 🍺 Hi! I'm Re*Index. (ot_inc)
 ![AveMujica](./image/AM_header.png)
+
 ### 📋 About
-- <b>Japanese (日本語)</b><br>
+
+**Japanese (日本語)**
+
 あっ、どうも。細々と何かやってるぞ。生暖かく見てくれ。<br>
 現在は[BanG Dream! Ave Mujica](https://anime.bang-dream.com/avemujica/)を視聴中...
 
-- <b>English (Translated Google)</b><br>
+**English (Translated Google)**
+
 Oh, hello there. I'm doing a little bit of everything.<br>
 Currently watching [BanG Dream! Ave Mujica](https://anime.bang-dream.com/avemujica/)...
 
