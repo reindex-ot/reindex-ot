@@ -45,7 +45,7 @@ Right now, I'm watching [BanG Dream! Ave Mujica](https://anime.bang-dream.com/av
 - [Beacons (Profile)](https://beacons.ai/reindex)
 - [GitHub.io - Fastboot ROM & boot.img](https://reindex-ot.github.io/)
 - [note (Japanese)](https://note.com/reindex)
-- [Buy eSTK.me (10% Off Coupon code: reindex)](https://www.estk.me/?aid=10811)
+- [Buy eSTK.me (10% Off Coupon code: reindex)](https://store.estk.me/?code=reindex)
 - [serial experiments lain TTL (Open Source Project)](https://www.nbcuni.co.jp/rondorobe/anime/lain/ttl/)
 
 ### ⚡ Status
